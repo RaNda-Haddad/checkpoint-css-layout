@@ -1,0 +1,105 @@
+body{
+    font-family: Roboto,Arial,sans-serif;
+
+}
+.log img{
+width: 268px;;
+height: 33px; ;
+
+
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu a{
+text-decoration: none;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.title h1{
+    font-size:2.125rem ;
+    font-family: Work sans, Arial,sans-serif;
+    color: #00b39b;
+    font-weight: lighter;
+}
+.parentp{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.childp{
+    line-height: 1.75;
+    color: #747474;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
+.card0{
+    width: 300px;
+    height: 300px;
+    background-color:#00b39b;
+    margin: 35px;
+    border-radius: 5%;
+    padding: 20px;
+    }
+.card00{
+    width: 300px;
+    height: 300px;
+    background-color :rgb(59, 124, 245) ;
+    margin:35px;
+    border-radius: 5%;
+    padding: 20px;
+}    
+.card000{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(15, 14, 14, 0.986);
+    margin: 35px;
+    border-radius: 5%;
+    padding: 20px;
+}
+
+.cards select{
+    margin-top: 100px;
+}
+.h1{
+        float: left;
+        width: 33%;
+        font-size: 1.625em;
+        margin: 0.25em 0 0.35em;
+        padding-right: 1em;
+}
+
+.brands__logos li {
+    font-size: small;
+    display: inline-block;
+    margin-top: 0;
+    padding: 5px 0 5px 5px;
+    width: 25%;
+
+
+}
+*
+{
+box-sizing: inherit;
+}
+
+
+
+
+
+
+
+
+
